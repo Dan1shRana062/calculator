@@ -62,4 +62,9 @@ body{
         background-color: white;
 
     }
+    .container {
+        box-shadow: none;
+        border: 1px solid #333;
+        border-radius: 0px;
+    }
   }
